@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://colegiados.netlify.app/$1"
+ }
+  ]
+}
